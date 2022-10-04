@@ -1,0 +1,7 @@
+CREATE DATABASE 4ptb1;
+USE 4ptb1;
+
+INSERT INTO products (id, name, price, descr) VALUES 
+	(1, "laptop HP", 10000, "opis1"),
+    (2, "laptop HP", 20000, "opis2"),
+    (3, "laptop HP", 5000, "opis3");
